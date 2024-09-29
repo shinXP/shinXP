@@ -1,5 +1,14 @@
-<img src="https://cdn.oneesports.gg/cdn-data/2024/04/Anime_OnePiece_Zoro_Sword_Attack-1024x576.jpg">
-<h1 align="center">Hi 👋, I'm Albenzar Sagad</h1>
+<img align="Center" width="1000" height="300" src="https://cdn.oneesports.gg/cdn-data/2024/04/Anime_OnePiece_Zoro_Sword_Attack-1024x576.jpg">
+<h1 align="center">
+  Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Albenzar Sagad <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
+</picture>
+</h1>
+
 📫 How to reach me: albenzarsagad@gmail.com
 
 <h3 align="left">I am currently learning:</h3>
